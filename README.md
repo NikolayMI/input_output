@@ -90,7 +90,7 @@ def get_course_info(html):
 2. от формата вывода в файл.
 
 <p align="center">
-  <img src="7_40_data_flow.png" alt="Схема обработки данных" width="800"/>
+  <img src="https://raw.githubusercontent.com/NikolayMI/input_output/markdown/7_40_data_flow.png" alt="Схема" width="800"/>
 </p>
 
 Кроме того, часть кода удалось превратить в чистые функции, что облегчит тестирование и повторное использование.
